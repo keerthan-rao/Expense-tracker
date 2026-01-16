@@ -45,30 +45,7 @@ The application follows a clean REST API architecture and ensures data persisten
 
 ---
 
-## Project Structure
 
-my-react-app/
-│
-├── backend/
-│   ├── main.py
-│   ├── database.py
-│   ├── models.py
-│   ├── expense_schemas.py
-│   ├── crud.py
-│   ├── requirements.txt
-│   └── .venv/
-│
-├── src/
-│   ├── App.jsx
-│   ├── api.js
-│   ├── main.jsx
-│   └── index.css
-│
-├── package.json
-├── vite.config.js
-└── README.md
-
----
 
 ## How to Run the Project
 
